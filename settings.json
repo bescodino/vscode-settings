@@ -133,4 +133,7 @@
         120
     ],
     "tabnine.experimentalAutoImports": true,
+    "[prisma]": {
+        "editor.defaultFormatter": "Prisma.prisma"
+    }
 }
